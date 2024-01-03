@@ -2,7 +2,7 @@
 Project Overview This public repository focuses on the development of a classifier to distinguish images of Martian terrain with frost, contributing to the study of Mars' seasonal frost cycle and its impact on climate. The dataset, accessible from dataverse.jpl.nasa.gov, plays a crucial role in identifying low-latitude frosted microclimates. The objective is to classify individual tiles into 'frost' or 'background' using binary classification.
 
 # Code Privacy:
-While the code remains private to preserve intellectual property and research integrity, the repository provides a comprehensive project structure and a detailed project overview. This transparency allows users to grasp the objectives, methodology, and significance of the work.
+While the code remains private to preserve intellectual property and research integrity, the repository provides some details about project. This transparency allows you users to grasp the objective of the work.
 
 # Key Steps:
 Data Handling:
